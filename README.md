@@ -12,7 +12,7 @@
 
 ## 📑 Overview
 
-Dex Mini's innovative Borrow Hook empowers both retail and institutional users with unprecedented control over on-chain liquidity. Built on Uniswap v4, our protocol redefines DeFi lending by integrating concentrated liquidity with institutional-grade risk management.
+Dex Mini is innovative Borrow Hook empowers both retail and institutional users with unprecedented control over on-chain liquidity. Built on Uniswap v4, our protocol redefines DeFi lending by integrating concentrated liquidity with institutional-grade risk management.
 
 ```mermaid
 %% Swap Execution Sequence Diagram
